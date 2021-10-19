@@ -28,3 +28,5 @@ function trackRobot(...args: number[]) : number[] {
 }
 
 console.log(trackRobot(20, 30, 10, 40));
+console.log(trackRobot(0,0));
+console.log(trackRobot(-10, 20, 10));
